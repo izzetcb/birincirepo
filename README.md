@@ -1,0 +1,1 @@
+# birinci repo readme dosyası
