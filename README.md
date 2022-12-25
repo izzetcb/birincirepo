@@ -1,1 +1,1 @@
-# birinci repo readme dosyası
+# birinci repo readme dosyası, yazar: İzzet Cemil Bozoğlu 
